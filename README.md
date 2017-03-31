@@ -14,6 +14,7 @@ The repo contains the following scripts:
 * `calibrationFunc_mixedLoss_constrScores_symbolic.m` — symbolic derivation helping to prove Proposition 15
 
 The scripts were tested on Ubuntu 16.04, Matlab-R2016a, but should run on other systems as well.
+The numerical scripts depend on Optimization Toolbox, the symbolic scripts depend on Symbolic Math Toolbox.
 
 The code is released under Apache v2 License allowing to use the code in any way you want.
 
