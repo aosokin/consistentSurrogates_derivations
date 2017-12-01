@@ -1,6 +1,6 @@
 # On Structured Prediction Theory with Calibrated Convex Surrogate Losses
 
-This repo contains some MATLAB scripts providing numerical and symbolic computations of the calibration functions presented in our paper [On Structured Prediction Theory with Calibrated Convex Surrogate Losses](https://arxiv.org/abs/1703.02403v1).
+This repo contains some MATLAB scripts providing numerical and symbolic computations of the calibration functions presented in our paper [On Structured Prediction Theory with Calibrated Convex Surrogate Losses](https://arxiv.org/abs/1703.02403).
 
 The repo contains the following scripts:
 * `calibrationFunc_01Loss_numerical.m` — numerical computation of the calibration functions for 0-1 loss (Proposition 10)
@@ -21,11 +21,11 @@ The code is released under Apache v2 License allowing to use the code in any way
 ### Citation
 
 If you are using this software please cite the following paper in any resulting publication:
->@article{osokin2017calibration, <br>
-    author      = {Anton Osokin and Francis Bach and Simon Lacoste-Julien},<br>
-    title       = {On Structured Prediction Theory with Calibrated Convex Surrogate Losses},<br>
-    journal   = {arXiv:1701.05927v1},<br>
-    year        = {2017} }
+>@inproceedings{osokin17consistency,<br>
+    title = {On Structured Prediction Theory with Calibrated Convex Surrogate Losses},<br>
+    author = {Anton Osokin and Francis Bach and Simon Lacoste-Julien},<br>
+    booktitle = {Advances in Neural Information Processing Systems (NIPS)},<br>
+    year = {2017} }
 
 ### Authors
 
